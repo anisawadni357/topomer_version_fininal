@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Topomer</string>
+    <string name="title_activity_main">topomer</string>
+    <string name="package_name">com.topomer.topomer</string>
+    <string name="custom_url_scheme">com.topomer.topomer</string>
+    <string name="server_client_id">516970484014-bup6nrdqq8lvo3nsjme3eltdnufc54ui.apps.googleusercontent.com</string>
+</resources>

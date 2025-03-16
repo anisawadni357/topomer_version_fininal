@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "516970484014",
+    "project_id": "topomer-application-mobile",
+    "storage_bucket": "topomer-application-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516970484014:android:4fd8a17bec53c3861caabf",
+        "android_client_info": {
+          "package_name": "com.topomer.topomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516970484014-us5rprcananv8ubaj6t3dt6pgblpltjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.topomer.topomer",
+            "certificate_hash": "7184c5cb494d6e2612445a36602bd6f5e3800f39"
+          }
+        },
+        {
+          "client_id": "516970484014-bup6nrdqq8lvo3nsjme3eltdnufc54ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi2MThZvp_L04hDvFnzdwgWXBuhw93A_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516970484014-bup6nrdqq8lvo3nsjme3eltdnufc54ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
